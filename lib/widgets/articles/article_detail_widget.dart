@@ -105,6 +105,28 @@ class ArticleDetailWidegt extends StatelessWidget {
                   ),
                 ),
               ),
+                     const Divider(thickness: 1, indent: 20),
+               Padding(
+                padding: const EdgeInsets.all(8.0),
+                child: SizedBox(
+                  // height: 20,
+                  child: Row(
+                    children: [
+                      Text(
+                       'Source : ',
+                        style:
+                            TextStyle(fontSize: 20.sp, fontWeight: FontWeight.w600 ,color: Colors.grey.shade600),
+                      ),
+                      Text(
+                        article.source!.name ?? '',
+                        style:
+                            TextStyle(fontSize: 20.sp, fontWeight: FontWeight.w500,color: const Color(0XFF974896)),
+                      ),
+                    ],
+                  ),
+                ),
+              ),
+          
             ],
           ),
         ),

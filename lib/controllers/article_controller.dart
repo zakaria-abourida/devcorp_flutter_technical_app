@@ -54,13 +54,12 @@ class ArticleController extends GetxController {
       _page.value = 1;
     }
 
-    len.value++;
 
-    dio.Response response;
+    dio.Response response  = await articleApi.getArticles(_page.value.toString());;
 
    
 
-    response = await articleApi.getArticles(_page.value.toString());
+
 
     switch (response.statusCode) {
       case 200:

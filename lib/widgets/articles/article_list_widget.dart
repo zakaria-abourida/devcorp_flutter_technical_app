@@ -33,7 +33,9 @@ class ArticlesListWidget extends StatelessWidget {
             () => LazyLoadScrollView(
               onEndOfPage: () {
                 articleController.onLoading();
+             
               },
+                // scrollOffset: 50 ,
               isLoading: articleController.isLoading.value,
               child: ListView.builder(
                 itemCount: articleController.articlesSearch.length,
