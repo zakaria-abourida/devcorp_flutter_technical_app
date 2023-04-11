@@ -25,3 +25,6 @@ samples, guidance on mobile development, and a full API reference.
 <img src="https://user-images.githubusercontent.com/60720300/231024325-f589e364-a1fc-49a9-b4bc-3a70631363e3.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
 
 
+### NB : to inform the api you shared with sometimes expires 
+
+
