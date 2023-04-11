@@ -22,6 +22,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Article details 
 
-<img src="https://user-images.githubusercontent.com/60720300/231024247-252de68f-8eda-4ead-9bb5-95f896f57a0d.png](https://user-images.githubusercontent.com/60720300/231024325-f589e364-a1fc-49a9-b4bc-3a70631363e3.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/60720300/231024325-f589e364-a1fc-49a9-b4bc-3a70631363e3.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
 
 
